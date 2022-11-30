@@ -1,364 +1,364 @@
-_100_12.txt : Maximum Matching 615  in 0.013022899627685547 seconds; Number of operations: 37200
-_100_25.txt : Maximum Matching 1222  in 0.025603294372558594 seconds; Number of operations: 74340
-_100_50.txt : Maximum Matching 2444  in 0.052297353744506836 seconds; Number of operations: 148560
-_100_75.txt : Maximum Matching 3661  in 0.0765523910522461 seconds; Number of operations: 222840
-_10_12.txt : Maximum Matching 6  in 3.8623809814453125e-05 seconds; Number of operations: 1
-_10_25.txt : Maximum Matching 12  in 5.507469177246094e-05 seconds; Number of operations: 1
-_10_50.txt : Maximum Matching 22  in 0.00011277198791503906 seconds; Number of operations: 144
-_10_75.txt : Maximum Matching 30  in 0.00014662742614746094 seconds; Number of operations: 210
-_11_12.txt : Maximum Matching 7  in 7.081031799316406e-05 seconds; Number of operations: 1
-_11_25.txt : Maximum Matching 13  in 0.00010275840759277344 seconds; Number of operations: 105
-_11_50.txt : Maximum Matching 24  in 0.00022554397583007812 seconds; Number of operations: 203
-_11_75.txt : Maximum Matching 38  in 0.0001735687255859375 seconds; Number of operations: 301
-_12_12.txt : Maximum Matching 9  in 9.250640869140625e-05 seconds; Number of operations: 1
-_12_25.txt : Maximum Matching 16  in 9.250640869140625e-05 seconds; Number of operations: 126
-_12_50.txt : Maximum Matching 29  in 0.00015425682067871094 seconds; Number of operations: 238
-_12_75.txt : Maximum Matching 45  in 0.000255584716796875 seconds; Number of operations: 357
-_13_12.txt : Maximum Matching 10  in 5.91278076171875e-05 seconds; Number of operations: 1
-_13_25.txt : Maximum Matching 20  in 8.034706115722656e-05 seconds; Number of operations: 1
-_13_50.txt : Maximum Matching 35  in 0.00019311904907226562 seconds; Number of operations: 320
-_13_75.txt : Maximum Matching 56  in 0.00033283233642578125 seconds; Number of operations: 480
-_14_12.txt : Maximum Matching 12  in 5.745887756347656e-05 seconds; Number of operations: 1
-_14_25.txt : Maximum Matching 23  in 8.940696716308594e-05 seconds; Number of operations: 1
-_14_50.txt : Maximum Matching 42  in 0.00021600723266601562 seconds; Number of operations: 376
-_14_75.txt : Maximum Matching 64  in 0.0002956390380859375 seconds; Number of operations: 560
-_15_12.txt : Maximum Matching 14  in 0.0001316070556640625 seconds; Number of operations: 1
-_15_25.txt : Maximum Matching 27  in 9.632110595703125e-05 seconds; Number of operations: 1
-_15_50.txt : Maximum Matching 49  in 0.00025010108947753906 seconds; Number of operations: 486
-_15_75.txt : Maximum Matching 72  in 0.0003552436828613281 seconds; Number of operations: 720
-_16_12.txt : Maximum Matching 15  in 7.104873657226562e-05 seconds; Number of operations: 1
-_16_25.txt : Maximum Matching 29  in 0.000164031982421875 seconds; Number of operations: 310
-_16_50.txt : Maximum Matching 57  in 0.00041174888610839844 seconds; Number of operations: 610
-_16_75.txt : Maximum Matching 81  in 0.0004260540008544922 seconds; Number of operations: 910
-_17_12.txt : Maximum Matching 17  in 7.82012939453125e-05 seconds; Number of operations: 1
-_17_25.txt : Maximum Matching 32  in 0.0002079010009765625 seconds; Number of operations: 350
-_17_50.txt : Maximum Matching 63  in 0.0005667209625244141 seconds; Number of operations: 690
-_17_75.txt : Maximum Matching 94  in 0.0007159709930419922 seconds; Number of operations: 1030
-_18_12.txt : Maximum Matching 20  in 8.869171142578125e-05 seconds; Number of operations: 1
-_18_25.txt : Maximum Matching 37  in 0.00021219253540039062 seconds; Number of operations: 440
-_18_50.txt : Maximum Matching 71  in 0.0003933906555175781 seconds; Number of operations: 858
-_18_75.txt : Maximum Matching 107  in 0.0006475448608398438 seconds; Number of operations: 1276
-_19_12.txt : Maximum Matching 21  in 0.00014448165893554688 seconds; Number of operations: 253
-_19_25.txt : Maximum Matching 41  in 0.0002551078796386719 seconds; Number of operations: 484
-_19_50.txt : Maximum Matching 81  in 0.00048542022705078125 seconds; Number of operations: 957
-_19_75.txt : Maximum Matching 120  in 0.0006716251373291016 seconds; Number of operations: 1430
-_20_12.txt : Maximum Matching 23  in 0.00015592575073242188 seconds; Number of operations: 300
-_20_25.txt : Maximum Matching 46  in 0.0003032684326171875 seconds; Number of operations: 588
-_20_50.txt : Maximum Matching 89  in 0.0005409717559814453 seconds; Number of operations: 1152
-_20_75.txt : Maximum Matching 133  in 0.0007369518280029297 seconds; Number of operations: 1728
-_21_12.txt : Maximum Matching 26  in 0.00019049644470214844 seconds; Number of operations: 364
-_21_25.txt : Maximum Matching 51  in 0.0003070831298828125 seconds; Number of operations: 702
-_21_50.txt : Maximum Matching 99  in 0.00061798095703125 seconds; Number of operations: 1378
-_21_75.txt : Maximum Matching 147  in 0.0008714199066162109 seconds; Number of operations: 2067
-_22_12.txt : Maximum Matching 28  in 0.0003895759582519531 seconds; Number of operations: 390
-_22_25.txt : Maximum Matching 56  in 0.0003654956817626953 seconds; Number of operations: 767
-_22_50.txt : Maximum Matching 111  in 0.0006480216979980469 seconds; Number of operations: 1521
-_22_75.txt : Maximum Matching 162  in 0.0009665489196777344 seconds; Number of operations: 2275
-_23_12.txt : Maximum Matching 31  in 0.0002281665802001953 seconds; Number of operations: 462
-_23_25.txt : Maximum Matching 62  in 0.0004181861877441406 seconds; Number of operations: 910
-_23_50.txt : Maximum Matching 122  in 0.0007929801940917969 seconds; Number of operations: 1792
-_23_75.txt : Maximum Matching 178  in 0.0011096000671386719 seconds; Number of operations: 2674
-_24_12.txt : Maximum Matching 34  in 0.0002429485321044922 seconds; Number of operations: 504
-_24_25.txt : Maximum Matching 66  in 0.0004286766052246094 seconds; Number of operations: 980
-_24_50.txt : Maximum Matching 132  in 0.0008330345153808594 seconds; Number of operations: 1946
-_24_75.txt : Maximum Matching 196  in 0.0012469291687011719 seconds; Number of operations: 2912
-_25_12.txt : Maximum Matching 38  in 0.00018715858459472656 seconds; Number of operations: 1
-_25_25.txt : Maximum Matching 72  in 0.0004870891571044922 seconds; Number of operations: 1140
-_25_50.txt : Maximum Matching 144  in 0.0012974739074707031 seconds; Number of operations: 2265
-_25_75.txt : Maximum Matching 213  in 0.0016658306121826172 seconds; Number of operations: 3390
-_26_12.txt : Maximum Matching 41  in 0.00018644332885742188 seconds; Number of operations: 1
-_26_25.txt : Maximum Matching 79  in 0.0006196498870849609 seconds; Number of operations: 1328
-_26_50.txt : Maximum Matching 156  in 0.0010650157928466797 seconds; Number of operations: 2624
-_26_75.txt : Maximum Matching 231  in 0.0016057491302490234 seconds; Number of operations: 3920
-_27_12.txt : Maximum Matching 44  in 0.00020813941955566406 seconds; Number of operations: 1
-_27_25.txt : Maximum Matching 85  in 0.0006101131439208984 seconds; Number of operations: 1424
-_27_50.txt : Maximum Matching 168  in 0.0013043880462646484 seconds; Number of operations: 2832
-_27_75.txt : Maximum Matching 250  in 0.0016665458679199219 seconds; Number of operations: 4240
-_28_12.txt : Maximum Matching 48  in 0.0004532337188720703 seconds; Number of operations: 1
-_28_25.txt : Maximum Matching 93  in 0.000667572021484375 seconds; Number of operations: 1632
-_28_50.txt : Maximum Matching 181  in 0.00131988525390625 seconds; Number of operations: 3230
-_28_75.txt : Maximum Matching 270  in 0.0018317699432373047 seconds; Number of operations: 4845
-_29_12.txt : Maximum Matching 51  in 0.0002675056457519531 seconds; Number of operations: 1
-_29_25.txt : Maximum Matching 100  in 0.0007064342498779297 seconds; Number of operations: 1751
-_29_50.txt : Maximum Matching 196  in 0.0013928413391113281 seconds; Number of operations: 3468
-_29_75.txt : Maximum Matching 290  in 0.002088785171508789 seconds; Number of operations: 5202
-_30_12.txt : Maximum Matching 54  in 0.00043010711669921875 seconds; Number of operations: 1008
-_30_25.txt : Maximum Matching 106  in 0.0008127689361572266 seconds; Number of operations: 1980
-_30_50.txt : Maximum Matching 210  in 0.0016491413116455078 seconds; Number of operations: 3942
-_30_75.txt : Maximum Matching 311  in 0.002179384231567383 seconds; Number of operations: 5904
-_31_12.txt : Maximum Matching 58  in 0.00043010711669921875 seconds; Number of operations: 1140
-_31_25.txt : Maximum Matching 114  in 0.0008709430694580078 seconds; Number of operations: 2242
-_31_50.txt : Maximum Matching 223  in 0.0017850399017333984 seconds; Number of operations: 4446
-_31_75.txt : Maximum Matching 333  in 0.0024573802947998047 seconds; Number of operations: 6650
-_32_12.txt : Maximum Matching 62  in 0.0006372928619384766 seconds; Number of operations: 1
-_32_25.txt : Maximum Matching 121  in 0.0009188652038574219 seconds; Number of operations: 2375
-_32_50.txt : Maximum Matching 237  in 0.0018036365509033203 seconds; Number of operations: 4731
-_32_75.txt : Maximum Matching 358  in 0.005591869354248047 seconds; Number of operations: 7087
-_33_12.txt : Maximum Matching 66  in 0.0003769397735595703 seconds; Number of operations: 1
-_33_25.txt : Maximum Matching 129  in 0.0013680458068847656 seconds; Number of operations: 2660
-_33_50.txt : Maximum Matching 253  in 0.0020890235900878906 seconds; Number of operations: 5300
-_33_75.txt : Maximum Matching 381  in 0.002908945083618164 seconds; Number of operations: 7940
-_34_12.txt : Maximum Matching 71  in 0.0004458427429199219 seconds; Number of operations: 1
-_34_25.txt : Maximum Matching 136  in 0.001300811767578125 seconds; Number of operations: 2840
-_34_50.txt : Maximum Matching 271  in 0.002786874771118164 seconds; Number of operations: 5640
-_34_75.txt : Maximum Matching 403  in 0.003360271453857422 seconds; Number of operations: 8440
-_35_12.txt : Maximum Matching 75  in 0.00041961669921875 seconds; Number of operations: 1
-_35_25.txt : Maximum Matching 144  in 0.0012242794036865234 seconds; Number of operations: 3150
-_35_50.txt : Maximum Matching 290  in 0.0023581981658935547 seconds; Number of operations: 6279
-_35_75.txt : Maximum Matching 430  in 0.0037086009979248047 seconds; Number of operations: 9408
-_36_12.txt : Maximum Matching 79  in 0.0004849433898925781 seconds; Number of operations: 1
-_36_25.txt : Maximum Matching 153  in 0.0014045238494873047 seconds; Number of operations: 3498
-_36_50.txt : Maximum Matching 304  in 0.003004312515258789 seconds; Number of operations: 6952
-_36_75.txt : Maximum Matching 457  in 0.0038290023803710938 seconds; Number of operations: 10428
-_37_12.txt : Maximum Matching 84  in 0.0005173683166503906 seconds; Number of operations: 1
-_37_25.txt : Maximum Matching 162  in 0.0014750957489013672 seconds; Number of operations: 3696
-_37_50.txt : Maximum Matching 323  in 0.0028464794158935547 seconds; Number of operations: 7348
-_37_75.txt : Maximum Matching 481  in 0.0043523311614990234 seconds; Number of operations: 11022
-_38_12.txt : Maximum Matching 88  in 0.0006818771362304688 seconds; Number of operations: 1
-_38_25.txt : Maximum Matching 171  in 0.0015277862548828125 seconds; Number of operations: 4071
-_38_50.txt : Maximum Matching 339  in 0.0029196739196777344 seconds; Number of operations: 8119
-_38_75.txt : Maximum Matching 507  in 0.005117654800415039 seconds; Number of operations: 12167
-_39_12.txt : Maximum Matching 93  in 0.0006167888641357422 seconds; Number of operations: 1
-_39_25.txt : Maximum Matching 180  in 0.0016758441925048828 seconds; Number of operations: 4301
-_39_50.txt : Maximum Matching 358  in 0.003322601318359375 seconds; Number of operations: 8556
-_39_75.txt : Maximum Matching 537  in 0.004858732223510742 seconds; Number of operations: 12811
-_40_12.txt : Maximum Matching 98  in 0.0006265640258789062 seconds; Number of operations: 1
-_40_25.txt : Maximum Matching 189  in 0.0018894672393798828 seconds; Number of operations: 4704
-_40_50.txt : Maximum Matching 377  in 0.0035216808319091797 seconds; Number of operations: 9384
-_40_75.txt : Maximum Matching 563  in 0.005179643630981445 seconds; Number of operations: 14064
-_41_12.txt : Maximum Matching 103  in 0.0006814002990722656 seconds; Number of operations: 1
-_41_25.txt : Maximum Matching 199  in 0.0019769668579101562 seconds; Number of operations: 5150
-_41_50.txt : Maximum Matching 395  in 0.0036814212799072266 seconds; Number of operations: 10275
-_41_75.txt : Maximum Matching 593  in 0.007508516311645508 seconds; Number of operations: 15400
-_42_12.txt : Maximum Matching 108  in 0.0007088184356689453 seconds; Number of operations: 1
-_42_25.txt : Maximum Matching 210  in 0.002303600311279297 seconds; Number of operations: 5425
-_42_50.txt : Maximum Matching 415  in 0.00410151481628418 seconds; Number of operations: 10800
-_42_75.txt : Maximum Matching 625  in 0.0058863162994384766 seconds; Number of operations: 16175
-_43_12.txt : Maximum Matching 113  in 0.0007929801940917969 seconds; Number of operations: 1
-_43_25.txt : Maximum Matching 220  in 0.0021996498107910156 seconds; Number of operations: 5902
-_43_50.txt : Maximum Matching 435  in 0.005045652389526367 seconds; Number of operations: 11778
-_43_75.txt : Maximum Matching 658  in 0.006574392318725586 seconds; Number of operations: 17654
-_44_12.txt : Maximum Matching 119  in 0.0008804798126220703 seconds; Number of operations: 1
-_44_25.txt : Maximum Matching 231  in 0.002707242965698242 seconds; Number of operations: 6188
-_44_50.txt : Maximum Matching 456  in 0.0046672821044921875 seconds; Number of operations: 12324
-_44_75.txt : Maximum Matching 690  in 0.006794929504394531 seconds; Number of operations: 18486
-_45_12.txt : Maximum Matching 124  in 0.0009527206420898438 seconds; Number of operations: 1
-_45_25.txt : Maximum Matching 242  in 0.0025212764739990234 seconds; Number of operations: 6723
-_45_50.txt : Maximum Matching 479  in 0.005020856857299805 seconds; Number of operations: 13392
-_45_75.txt : Maximum Matching 723  in 0.007969379425048828 seconds; Number of operations: 20088
-_46_12.txt : Maximum Matching 130  in 0.001039266586303711 seconds; Number of operations: 1
-_46_25.txt : Maximum Matching 252  in 0.0026824474334716797 seconds; Number of operations: 7280
-_46_50.txt : Maximum Matching 502  in 0.005637645721435547 seconds; Number of operations: 14532
-_46_75.txt : Maximum Matching 754  in 0.007950544357299805 seconds; Number of operations: 21784
-_47_12.txt : Maximum Matching 135  in 0.0014154911041259766 seconds; Number of operations: 3836
-_47_25.txt : Maximum Matching 264  in 0.0028803348541259766 seconds; Number of operations: 7616
-_47_50.txt : Maximum Matching 526  in 0.008048057556152344 seconds; Number of operations: 15176
-_47_75.txt : Maximum Matching 786  in 0.008844375610351562 seconds; Number of operations: 22736
-_48_12.txt : Maximum Matching 140  in 0.0015180110931396484 seconds; Number of operations: 4118
-_48_25.txt : Maximum Matching 275  in 0.0030384063720703125 seconds; Number of operations: 8207
-_48_50.txt : Maximum Matching 549  in 0.00605010986328125 seconds; Number of operations: 16385
-_48_75.txt : Maximum Matching 821  in 0.009213685989379883 seconds; Number of operations: 24563
-_49_12.txt : Maximum Matching 146  in 0.0015711784362792969 seconds; Number of operations: 4292
-_49_25.txt : Maximum Matching 286  in 0.003787517547607422 seconds; Number of operations: 8555
-_49_50.txt : Maximum Matching 573  in 0.0061643123626708984 seconds; Number of operations: 17081
-_49_75.txt : Maximum Matching 858  in 0.009628772735595703 seconds; Number of operations: 25607
-_50_12.txt : Maximum Matching 153  in 0.001804351806640625 seconds; Number of operations: 4650
-_50_25.txt : Maximum Matching 299  in 0.0033385753631591797 seconds; Number of operations: 9240
-_50_50.txt : Maximum Matching 597  in 0.008800268173217773 seconds; Number of operations: 18420
-_50_75.txt : Maximum Matching 894  in 0.010200738906860352 seconds; Number of operations: 27600
-_51_12.txt : Maximum Matching 159  in 0.0018191337585449219 seconds; Number of operations: 4991
-_51_25.txt : Maximum Matching 314  in 0.0035538673400878906 seconds; Number of operations: 9920
-_51_50.txt : Maximum Matching 621  in 0.008703231811523438 seconds; Number of operations: 19809
-_51_75.txt : Maximum Matching 930  in 0.010629653930664062 seconds; Number of operations: 29698
-_52_12.txt : Maximum Matching 165  in 0.0018706321716308594 seconds; Number of operations: 5177
-_52_25.txt : Maximum Matching 327  in 0.004316091537475586 seconds; Number of operations: 10323
-_52_50.txt : Maximum Matching 645  in 0.008184194564819336 seconds; Number of operations: 20584
-_52_75.txt : Maximum Matching 967  in 0.011521339416503906 seconds; Number of operations: 30876
-_53_12.txt : Maximum Matching 172  in 0.002051830291748047 seconds; Number of operations: 5568
-_53_25.txt : Maximum Matching 340  in 0.004049777984619141 seconds; Number of operations: 11072
-_53_50.txt : Maximum Matching 671  in 0.007837533950805664 seconds; Number of operations: 22080
-_53_75.txt : Maximum Matching 1008  in 0.011593103408813477 seconds; Number of operations: 33120
-_54_12.txt : Maximum Matching 178  in 0.0020868778228759766 seconds; Number of operations: 5760
-_54_25.txt : Maximum Matching 352  in 0.004136085510253906 seconds; Number of operations: 11488
-_54_50.txt : Maximum Matching 699  in 0.008152246475219727 seconds; Number of operations: 22944
-_54_75.txt : Maximum Matching 1045  in 0.012275457382202148 seconds; Number of operations: 34400
-_55_12.txt : Maximum Matching 185  in 0.002366304397583008 seconds; Number of operations: 6171
-_55_25.txt : Maximum Matching 365  in 0.004322528839111328 seconds; Number of operations: 12309
-_55_50.txt : Maximum Matching 726  in 0.010574579238891602 seconds; Number of operations: 24552
-_55_75.txt : Maximum Matching 1084  in 0.013271570205688477 seconds; Number of operations: 36795
-_56_12.txt : Maximum Matching 192  in 0.002825498580932617 seconds; Number of operations: 6596
-_56_25.txt : Maximum Matching 378  in 0.004513263702392578 seconds; Number of operations: 13124
-_56_50.txt : Maximum Matching 753  in 0.009527921676635742 seconds; Number of operations: 26214
-_56_75.txt : Maximum Matching 1129  in 0.013700485229492188 seconds; Number of operations: 39304
-_57_12.txt : Maximum Matching 199  in 0.00255584716796875 seconds; Number of operations: 6834
-_57_25.txt : Maximum Matching 392  in 0.005102872848510742 seconds; Number of operations: 13600
-_57_50.txt : Maximum Matching 781  in 0.01014256477355957 seconds; Number of operations: 27166
-_57_75.txt : Maximum Matching 1167  in 0.015499591827392578 seconds; Number of operations: 40732
-_58_12.txt : Maximum Matching 206  in 0.003635883331298828 seconds; Number of operations: 7280
-_58_25.txt : Maximum Matching 407  in 0.005250692367553711 seconds; Number of operations: 14525
-_58_50.txt : Maximum Matching 810  in 0.010521888732910156 seconds; Number of operations: 28980
-_58_75.txt : Maximum Matching 1212  in 0.020673036575317383 seconds; Number of operations: 43435
-_59_12.txt : Maximum Matching 213  in 0.0027458667755126953 seconds; Number of operations: 7525
-_59_25.txt : Maximum Matching 420  in 0.005313873291015625 seconds; Number of operations: 15015
-_59_50.txt : Maximum Matching 836  in 0.010800361633300781 seconds; Number of operations: 29995
-_59_75.txt : Maximum Matching 1253  in 0.01575446128845215 seconds; Number of operations: 44975
-_60_12.txt : Maximum Matching 221  in 0.002841949462890625 seconds; Number of operations: 8028
-_60_25.txt : Maximum Matching 435  in 0.005774021148681641 seconds; Number of operations: 15984
-_60_50.txt : Maximum Matching 864  in 0.011245965957641602 seconds; Number of operations: 31896
-_60_75.txt : Maximum Matching 1296  in 0.017512798309326172 seconds; Number of operations: 47844
-_61_12.txt : Maximum Matching 228  in 0.0030832290649414062 seconds; Number of operations: 8510
-_61_25.txt : Maximum Matching 450  in 0.0063440799713134766 seconds; Number of operations: 16983
-_61_50.txt : Maximum Matching 894  in 0.011688232421875 seconds; Number of operations: 33892
-_61_75.txt : Maximum Matching 1340  in 0.01773810386657715 seconds; Number of operations: 50838
-_62_12.txt : Maximum Matching 236  in 0.003778219223022461 seconds; Number of operations: 8806
-_62_25.txt : Maximum Matching 466  in 0.006284475326538086 seconds; Number of operations: 17538
-_62_50.txt : Maximum Matching 925  in 0.012273311614990234 seconds; Number of operations: 35039
-_62_75.txt : Maximum Matching 1384  in 0.019656896591186523 seconds; Number of operations: 52540
-_63_12.txt : Maximum Matching 244  in 0.003347158432006836 seconds; Number of operations: 9348
-_63_25.txt : Maximum Matching 482  in 0.01222085952758789 seconds; Number of operations: 18620
-_63_50.txt : Maximum Matching 956  in 0.01337885856628418 seconds; Number of operations: 37164
-_63_75.txt : Maximum Matching 1429  in 0.019417285919189453 seconds; Number of operations: 55708
-_64_12.txt : Maximum Matching 248  in 0.003545045852661133 seconds; Number of operations: 9614
-_64_25.txt : Maximum Matching 497  in 0.006815433502197266 seconds; Number of operations: 19190
-_64_50.txt : Maximum Matching 989  in 0.013584375381469727 seconds; Number of operations: 38342
-_64_75.txt : Maximum Matching 1479  in 0.020743131637573242 seconds; Number of operations: 57494
-_65_12.txt : Maximum Matching 258  in 0.003632068634033203 seconds; Number of operations: 10179
-_65_25.txt : Maximum Matching 513  in 0.00781393051147461 seconds; Number of operations: 20319
-_65_50.txt : Maximum Matching 1021  in 0.015323400497436523 seconds; Number of operations: 40599
-_65_75.txt : Maximum Matching 1527  in 0.021291732788085938 seconds; Number of operations: 60879
-_66_12.txt : Maximum Matching 267  in 0.004253864288330078 seconds; Number of operations: 10800
-_66_25.txt : Maximum Matching 529  in 0.00780487060546875 seconds; Number of operations: 21520
-_66_50.txt : Maximum Matching 1053  in 0.015365123748779297 seconds; Number of operations: 42960
-_66_75.txt : Maximum Matching 1575  in 0.02229022979736328 seconds; Number of operations: 64400
-_67_12.txt : Maximum Matching 275  in 0.004021883010864258 seconds; Number of operations: 11120
-_67_25.txt : Maximum Matching 546  in 0.00793004035949707 seconds; Number of operations: 22160
-_67_50.txt : Maximum Matching 1085  in 0.022624969482421875 seconds; Number of operations: 44280
-_67_75.txt : Maximum Matching 1626  in 0.024042367935180664 seconds; Number of operations: 66400
-_68_12.txt : Maximum Matching 283  in 0.004063844680786133 seconds; Number of operations: 11726
-_68_25.txt : Maximum Matching 563  in 0.008527040481567383 seconds; Number of operations: 23411
-_68_50.txt : Maximum Matching 1119  in 0.016125917434692383 seconds; Number of operations: 46740
-_68_75.txt : Maximum Matching 1676  in 0.024241924285888672 seconds; Number of operations: 70110
-_69_12.txt : Maximum Matching 292  in 0.004281759262084961 seconds; Number of operations: 12095
-_69_25.txt : Maximum Matching 580  in 0.008758783340454102 seconds; Number of operations: 24108
-_69_50.txt : Maximum Matching 1151  in 0.01844644546508789 seconds; Number of operations: 48134
-_69_75.txt : Maximum Matching 1725  in 0.02599167823791504 seconds; Number of operations: 72201
-_70_12.txt : Maximum Matching 300  in 0.004807472229003906 seconds; Number of operations: 12726
-_70_25.txt : Maximum Matching 597  in 0.008795022964477539 seconds; Number of operations: 25410
-_70_50.txt : Maximum Matching 1186  in 0.018170595169067383 seconds; Number of operations: 50778
-_70_75.txt : Maximum Matching 1777  in 0.026381492614746094 seconds; Number of operations: 76146
-_71_12.txt : Maximum Matching 309  in 0.005082845687866211 seconds; Number of operations: 13416
-_71_25.txt : Maximum Matching 615  in 0.010091543197631836 seconds; Number of operations: 26789
-_71_50.txt : Maximum Matching 1220  in 0.01898646354675293 seconds; Number of operations: 53492
-_71_75.txt : Maximum Matching 1828  in 0.027507305145263672 seconds; Number of operations: 80195
-_72_12.txt : Maximum Matching 318  in 0.004773139953613281 seconds; Number of operations: 13803
-_72_25.txt : Maximum Matching 631  in 0.009957313537597656 seconds; Number of operations: 27520
-_72_50.txt : Maximum Matching 1254  in 0.02054429054260254 seconds; Number of operations: 54997
-_72_75.txt : Maximum Matching 1881  in 0.03134894371032715 seconds; Number of operations: 82474
-_73_12.txt : Maximum Matching 326  in 0.005214214324951172 seconds; Number of operations: 14520
-_73_25.txt : Maximum Matching 647  in 0.011038064956665039 seconds; Number of operations: 28952
-_73_50.txt : Maximum Matching 1288  in 0.0241854190826416 seconds; Number of operations: 57860
-_73_75.txt : Maximum Matching 1932  in 0.03123164176940918 seconds; Number of operations: 86768
-_74_12.txt : Maximum Matching 335  in 0.00535273551940918 seconds; Number of operations: 14916
-_74_25.txt : Maximum Matching 666  in 0.010640382766723633 seconds; Number of operations: 29788
-_74_50.txt : Maximum Matching 1324  in 0.03076958656311035 seconds; Number of operations: 59488
-_74_75.txt : Maximum Matching 1987  in 0.03333687782287598 seconds; Number of operations: 89188
-_75_12.txt : Maximum Matching 344  in 0.005881309509277344 seconds; Number of operations: 15660
-_75_25.txt : Maximum Matching 684  in 0.010803699493408203 seconds; Number of operations: 31275
-_75_50.txt : Maximum Matching 1361  in 0.0217740535736084 seconds; Number of operations: 62505
-_75_75.txt : Maximum Matching 2042  in 0.03409743309020996 seconds; Number of operations: 93735
-_76_12.txt : Maximum Matching 354  in 0.005769968032836914 seconds; Number of operations: 16468
-_76_25.txt : Maximum Matching 704  in 0.011988401412963867 seconds; Number of operations: 32844
-_76_50.txt : Maximum Matching 1397  in 0.024125099182128906 seconds; Number of operations: 65596
-_76_75.txt : Maximum Matching 2097  in 0.034630537033081055 seconds; Number of operations: 98394
-_77_12.txt : Maximum Matching 363  in 0.006027698516845703 seconds; Number of operations: 16882
-_77_25.txt : Maximum Matching 723  in 0.01384878158569336 seconds; Number of operations: 33718
-_77_50.txt : Maximum Matching 1436  in 0.02416539192199707 seconds; Number of operations: 67344
-_77_75.txt : Maximum Matching 2154  in 0.0350039005279541 seconds; Number of operations: 101016
-_78_12.txt : Maximum Matching 373  in 0.006211042404174805 seconds; Number of operations: 17719
-_78_25.txt : Maximum Matching 742  in 0.012764453887939453 seconds; Number of operations: 35344
-_78_50.txt : Maximum Matching 1476  in 0.023721933364868164 seconds; Number of operations: 70641
-_78_75.txt : Maximum Matching 2212  in 0.03658723831176758 seconds; Number of operations: 105938
-_79_12.txt : Maximum Matching 382  in 0.0063800811767578125 seconds; Number of operations: 18189
-_79_25.txt : Maximum Matching 762  in 0.012596368789672852 seconds; Number of operations: 36284
-_79_50.txt : Maximum Matching 1514  in 0.0252230167388916 seconds; Number of operations: 72474
-_79_75.txt : Maximum Matching 2268  in 0.04270434379577637 seconds; Number of operations: 108664
-_80_12.txt : Maximum Matching 392  in 0.006529569625854492 seconds; Number of operations: 19008
-_80_25.txt : Maximum Matching 781  in 0.013956069946289062 seconds; Number of operations: 37968
-_80_50.txt : Maximum Matching 1552  in 0.028516530990600586 seconds; Number of operations: 75888
-_80_75.txt : Maximum Matching 2327  in 0.042340755462646484 seconds; Number of operations: 113808
-_81_12.txt : Maximum Matching 402  in 0.007666349411010742 seconds; Number of operations: 19894
-_81_25.txt : Maximum Matching 801  in 0.015086650848388672 seconds; Number of operations: 39739
-_81_50.txt : Maximum Matching 1591  in 0.027666091918945312 seconds; Number of operations: 79429
-_81_75.txt : Maximum Matching 2387  in 0.041263580322265625 seconds; Number of operations: 119119
-_82_12.txt : Maximum Matching 413  in 0.0070531368255615234 seconds; Number of operations: 20433
-_82_25.txt : Maximum Matching 822  in 0.014636754989624023 seconds; Number of operations: 40768
-_82_50.txt : Maximum Matching 1632  in 0.02845931053161621 seconds; Number of operations: 81438
-_82_75.txt : Maximum Matching 2450  in 0.043515682220458984 seconds; Number of operations: 122108
-_83_12.txt : Maximum Matching 423  in 0.0073680877685546875 seconds; Number of operations: 21350
-_83_25.txt : Maximum Matching 842  in 0.014969587326049805 seconds; Number of operations: 42600
-_83_50.txt : Maximum Matching 1673  in 0.029860496520996094 seconds; Number of operations: 85150
-_83_75.txt : Maximum Matching 2509  in 0.04621386528015137 seconds; Number of operations: 127700
-_84_12.txt : Maximum Matching 433  in 0.00784611701965332 seconds; Number of operations: 21850
-_84_25.txt : Maximum Matching 863  in 0.015328645706176758 seconds; Number of operations: 43650
-_84_50.txt : Maximum Matching 1714  in 0.04631638526916504 seconds; Number of operations: 87200
-_84_75.txt : Maximum Matching 2570  in 0.0487666130065918 seconds; Number of operations: 130800
-_85_12.txt : Maximum Matching 444  in 0.007886409759521484 seconds; Number of operations: 22848
-_85_25.txt : Maximum Matching 884  in 0.01572442054748535 seconds; Number of operations: 45594
-_85_50.txt : Maximum Matching 1755  in 0.03263521194458008 seconds; Number of operations: 91086
-_85_75.txt : Maximum Matching 2631  in 0.04816865921020508 seconds; Number of operations: 136629
-_86_12.txt : Maximum Matching 454  in 0.008791685104370117 seconds; Number of operations: 23816
-_86_25.txt : Maximum Matching 905  in 0.016218900680541992 seconds; Number of operations: 47580
-_86_50.txt : Maximum Matching 1798  in 0.03235507011413574 seconds; Number of operations: 95108
-_86_75.txt : Maximum Matching 2694  in 0.04955744743347168 seconds; Number of operations: 142636
-_87_12.txt : Maximum Matching 465  in 0.008522510528564453 seconds; Number of operations: 24388
-_87_25.txt : Maximum Matching 926  in 0.01878833770751953 seconds; Number of operations: 48724
-_87_50.txt : Maximum Matching 1841  in 0.033937692642211914 seconds; Number of operations: 97344
-_87_75.txt : Maximum Matching 2757  in 0.05118870735168457 seconds; Number of operations: 145964
-_88_12.txt : Maximum Matching 476  in 0.008761882781982422 seconds; Number of operations: 25440
-_88_25.txt : Maximum Matching 946  in 0.02318859100341797 seconds; Number of operations: 50774
-_88_50.txt : Maximum Matching 1885  in 0.037264108657836914 seconds; Number of operations: 101495
-_88_75.txt : Maximum Matching 2822  in 0.05837655067443848 seconds; Number of operations: 152216
-_89_12.txt : Maximum Matching 487  in 0.00958704948425293 seconds; Number of operations: 26023
-_89_25.txt : Maximum Matching 968  in 0.02102971076965332 seconds; Number of operations: 51940
-_89_50.txt : Maximum Matching 1929  in 0.03592967987060547 seconds; Number of operations: 103827
-_89_75.txt : Maximum Matching 2887  in 0.056951045989990234 seconds; Number of operations: 155714
-_90_12.txt : Maximum Matching 498  in 0.010097742080688477 seconds; Number of operations: 27108
-_90_25.txt : Maximum Matching 991  in 0.01989459991455078 seconds; Number of operations: 54162
-_90_50.txt : Maximum Matching 1972  in 0.044104576110839844 seconds; Number of operations: 108216
-_90_75.txt : Maximum Matching 2953  in 0.05566763877868652 seconds; Number of operations: 162270
-_91_12.txt : Maximum Matching 509  in 0.011211395263671875 seconds; Number of operations: 28215
-_91_25.txt : Maximum Matching 1012  in 0.019536733627319336 seconds; Number of operations: 56375
-_91_50.txt : Maximum Matching 2018  in 0.040386199951171875 seconds; Number of operations: 112695
-_91_75.txt : Maximum Matching 3018  in 0.06127786636352539 seconds; Number of operations: 169015
-_92_12.txt : Maximum Matching 521  in 0.01129913330078125 seconds; Number of operations: 28875
-_92_25.txt : Maximum Matching 1035  in 0.02015519142150879 seconds; Number of operations: 57640
-_92_50.txt : Maximum Matching 2063  in 0.03940081596374512 seconds; Number of operations: 115170
-_92_75.txt : Maximum Matching 3086  in 0.06514263153076172 seconds; Number of operations: 172755
-_93_12.txt : Maximum Matching 532  in 0.010585784912109375 seconds; Number of operations: 30016
-_93_25.txt : Maximum Matching 1058  in 0.023423194885253906 seconds; Number of operations: 59976
-_93_50.txt : Maximum Matching 2108  in 0.05167365074157715 seconds; Number of operations: 119840
-_93_75.txt : Maximum Matching 3155  in 0.06319594383239746 seconds; Number of operations: 179760
-_94_12.txt : Maximum Matching 543  in 0.011288642883300781 seconds; Number of operations: 30688
-_94_25.txt : Maximum Matching 1079  in 0.02174830436706543 seconds; Number of operations: 61264
-_94_50.txt : Maximum Matching 2156  in 0.04897618293762207 seconds; Number of operations: 122472
-_94_75.txt : Maximum Matching 3224  in 0.07016801834106445 seconds; Number of operations: 183680
-_95_12.txt : Maximum Matching 554  in 0.012278079986572266 seconds; Number of operations: 31920
-_95_25.txt : Maximum Matching 1103  in 0.02294921875 seconds; Number of operations: 63726
-_95_50.txt : Maximum Matching 2204  in 0.04537463188171387 seconds; Number of operations: 127338
-_95_75.txt : Maximum Matching 3292  in 0.06488370895385742 seconds; Number of operations: 190950
-_96_12.txt : Maximum Matching 565  in 0.01157832145690918 seconds; Number of operations: 33118
-_96_25.txt : Maximum Matching 1126  in 0.022367477416992188 seconds; Number of operations: 66178
-_96_50.txt : Maximum Matching 2251  in 0.046686649322509766 seconds; Number of operations: 132298
-_96_75.txt : Maximum Matching 3362  in 0.06750893592834473 seconds; Number of operations: 198418
-_97_12.txt : Maximum Matching 578  in 0.012727737426757812 seconds; Number of operations: 33814
-_97_25.txt : Maximum Matching 1149  in 0.022811174392700195 seconds; Number of operations: 67570
-_97_50.txt : Maximum Matching 2299  in 0.04653286933898926 seconds; Number of operations: 135082
-_97_75.txt : Maximum Matching 3436  in 0.06870222091674805 seconds; Number of operations: 202594
-_98_12.txt : Maximum Matching 591  in 0.012148857116699219 seconds; Number of operations: 35164
-_98_25.txt : Maximum Matching 1174  in 0.028496265411376953 seconds; Number of operations: 70210
-_98_50.txt : Maximum Matching 2346  in 0.04907417297363281 seconds; Number of operations: 140302
-_98_75.txt : Maximum Matching 3508  in 0.08600878715515137 seconds; Number of operations: 210394
-_99_12.txt : Maximum Matching 603  in 0.012498855590820312 seconds; Number of operations: 35872
-_99_25.txt : Maximum Matching 1198  in 0.025774717330932617 seconds; Number of operations: 71626
-_99_50.txt : Maximum Matching 2394  in 0.0508580207824707 seconds; Number of operations: 143193
-_99_75.txt : Maximum Matching 3582  in 0.07398867607116699 seconds; Number of operations: 214760
+_100_12.txt : Maximum Matching 615  in 0.013922929763793945 seconds; Number of operations: 37200; Number of tested solutions: 60
+_100_25.txt : Maximum Matching 1222  in 0.03095531463623047 seconds; Number of operations: 74340; Number of tested solutions: 60
+_100_50.txt : Maximum Matching 2450  in 0.0568547248840332 seconds; Number of operations: 148560; Number of tested solutions: 60
+_100_75.txt : Maximum Matching 3655  in 0.0863344669342041 seconds; Number of operations: 222840; Number of tested solutions: 60
+_10_12.txt : Maximum Matching 6  in 9.322166442871094e-05 seconds; Number of operations: 42; Number of tested solutions: 6
+_10_25.txt : Maximum Matching 11  in 7.534027099609375e-05 seconds; Number of operations: 78; Number of tested solutions: 6
+_10_50.txt : Maximum Matching 22  in 0.00010657310485839844 seconds; Number of operations: 144; Number of tested solutions: 6
+_10_75.txt : Maximum Matching 30  in 0.00014209747314453125 seconds; Number of operations: 210; Number of tested solutions: 6
+_11_12.txt : Maximum Matching 7  in 6.532669067382812e-05 seconds; Number of operations: 56; Number of tested solutions: 7
+_11_25.txt : Maximum Matching 13  in 9.679794311523438e-05 seconds; Number of operations: 105; Number of tested solutions: 7
+_11_50.txt : Maximum Matching 27  in 0.00017023086547851562 seconds; Number of operations: 203; Number of tested solutions: 7
+_11_75.txt : Maximum Matching 37  in 0.0001857280731201172 seconds; Number of operations: 301; Number of tested solutions: 7
+_12_12.txt : Maximum Matching 9  in 0.00011110305786132812 seconds; Number of operations: 70; Number of tested solutions: 7
+_12_25.txt : Maximum Matching 15  in 9.250640869140625e-05 seconds; Number of operations: 126; Number of tested solutions: 7
+_12_50.txt : Maximum Matching 29  in 0.00018334388732910156 seconds; Number of operations: 238; Number of tested solutions: 7
+_12_75.txt : Maximum Matching 45  in 0.00021982192993164062 seconds; Number of operations: 357; Number of tested solutions: 7
+_13_12.txt : Maximum Matching 10  in 9.179115295410156e-05 seconds; Number of operations: 88; Number of tested solutions: 8
+_13_25.txt : Maximum Matching 20  in 0.00014257431030273438 seconds; Number of operations: 168; Number of tested solutions: 8
+_13_50.txt : Maximum Matching 37  in 0.00019073486328125 seconds; Number of operations: 320; Number of tested solutions: 8
+_13_75.txt : Maximum Matching 52  in 0.0004096031188964844 seconds; Number of operations: 480; Number of tested solutions: 8
+_14_12.txt : Maximum Matching 11  in 0.00011277198791503906 seconds; Number of operations: 104; Number of tested solutions: 8
+_14_25.txt : Maximum Matching 23  in 0.00012493133544921875 seconds; Number of operations: 192; Number of tested solutions: 8
+_14_50.txt : Maximum Matching 43  in 0.0002181529998779297 seconds; Number of operations: 376; Number of tested solutions: 8
+_14_75.txt : Maximum Matching 64  in 0.0002884864807128906 seconds; Number of operations: 560; Number of tested solutions: 8
+_15_12.txt : Maximum Matching 14  in 9.107589721679688e-05 seconds; Number of operations: 135; Number of tested solutions: 9
+_15_25.txt : Maximum Matching 26  in 0.0001590251922607422 seconds; Number of operations: 252; Number of tested solutions: 9
+_15_50.txt : Maximum Matching 49  in 0.00026869773864746094 seconds; Number of operations: 486; Number of tested solutions: 9
+_15_75.txt : Maximum Matching 72  in 0.000354766845703125 seconds; Number of operations: 720; Number of tested solutions: 9
+_16_12.txt : Maximum Matching 14  in 0.0001342296600341797 seconds; Number of operations: 160; Number of tested solutions: 10
+_16_25.txt : Maximum Matching 28  in 0.00020432472229003906 seconds; Number of operations: 310; Number of tested solutions: 10
+_16_50.txt : Maximum Matching 57  in 0.0003077983856201172 seconds; Number of operations: 610; Number of tested solutions: 10
+_16_75.txt : Maximum Matching 83  in 0.0007185935974121094 seconds; Number of operations: 910; Number of tested solutions: 10
+_17_12.txt : Maximum Matching 17  in 0.00017786026000976562 seconds; Number of operations: 180; Number of tested solutions: 10
+_17_25.txt : Maximum Matching 32  in 0.00019621849060058594 seconds; Number of operations: 350; Number of tested solutions: 10
+_17_50.txt : Maximum Matching 63  in 0.0005657672882080078 seconds; Number of operations: 690; Number of tested solutions: 10
+_17_75.txt : Maximum Matching 94  in 0.0005025863647460938 seconds; Number of operations: 1030; Number of tested solutions: 10
+_18_12.txt : Maximum Matching 19  in 0.00013375282287597656 seconds; Number of operations: 231; Number of tested solutions: 11
+_18_25.txt : Maximum Matching 37  in 0.000225067138671875 seconds; Number of operations: 440; Number of tested solutions: 11
+_18_50.txt : Maximum Matching 71  in 0.0004923343658447266 seconds; Number of operations: 858; Number of tested solutions: 11
+_18_75.txt : Maximum Matching 108  in 0.0005650520324707031 seconds; Number of operations: 1276; Number of tested solutions: 11
+_19_12.txt : Maximum Matching 21  in 0.000148773193359375 seconds; Number of operations: 253; Number of tested solutions: 11
+_19_25.txt : Maximum Matching 41  in 0.00024247169494628906 seconds; Number of operations: 484; Number of tested solutions: 11
+_19_50.txt : Maximum Matching 80  in 0.0005364418029785156 seconds; Number of operations: 957; Number of tested solutions: 11
+_19_75.txt : Maximum Matching 118  in 0.0006535053253173828 seconds; Number of operations: 1430; Number of tested solutions: 11
+_20_12.txt : Maximum Matching 23  in 0.00016736984252929688 seconds; Number of operations: 300; Number of tested solutions: 12
+_20_25.txt : Maximum Matching 46  in 0.0002944469451904297 seconds; Number of operations: 588; Number of tested solutions: 12
+_20_50.txt : Maximum Matching 89  in 0.0005135536193847656 seconds; Number of operations: 1152; Number of tested solutions: 12
+_20_75.txt : Maximum Matching 132  in 0.0009088516235351562 seconds; Number of operations: 1728; Number of tested solutions: 12
+_21_12.txt : Maximum Matching 26  in 0.00018668174743652344 seconds; Number of operations: 364; Number of tested solutions: 13
+_21_25.txt : Maximum Matching 51  in 0.00035071372985839844 seconds; Number of operations: 702; Number of tested solutions: 13
+_21_50.txt : Maximum Matching 98  in 0.0006477832794189453 seconds; Number of operations: 1378; Number of tested solutions: 13
+_21_75.txt : Maximum Matching 147  in 0.0008833408355712891 seconds; Number of operations: 2067; Number of tested solutions: 13
+_22_12.txt : Maximum Matching 28  in 0.0002040863037109375 seconds; Number of operations: 390; Number of tested solutions: 13
+_22_25.txt : Maximum Matching 56  in 0.0003771781921386719 seconds; Number of operations: 767; Number of tested solutions: 13
+_22_50.txt : Maximum Matching 109  in 0.0006878376007080078 seconds; Number of operations: 1521; Number of tested solutions: 13
+_22_75.txt : Maximum Matching 165  in 0.001046895980834961 seconds; Number of operations: 2275; Number of tested solutions: 13
+_23_12.txt : Maximum Matching 31  in 0.0002276897430419922 seconds; Number of operations: 462; Number of tested solutions: 14
+_23_25.txt : Maximum Matching 62  in 0.0004210472106933594 seconds; Number of operations: 910; Number of tested solutions: 14
+_23_50.txt : Maximum Matching 119  in 0.0007798671722412109 seconds; Number of operations: 1792; Number of tested solutions: 14
+_23_75.txt : Maximum Matching 178  in 0.0011992454528808594 seconds; Number of operations: 2674; Number of tested solutions: 14
+_24_12.txt : Maximum Matching 34  in 0.00025916099548339844 seconds; Number of operations: 504; Number of tested solutions: 14
+_24_25.txt : Maximum Matching 66  in 0.00048160552978515625 seconds; Number of operations: 980; Number of tested solutions: 14
+_24_50.txt : Maximum Matching 129  in 0.0008633136749267578 seconds; Number of operations: 1946; Number of tested solutions: 14
+_24_75.txt : Maximum Matching 195  in 0.0012500286102294922 seconds; Number of operations: 2912; Number of tested solutions: 14
+_25_12.txt : Maximum Matching 37  in 0.0004603862762451172 seconds; Number of operations: 585; Number of tested solutions: 15
+_25_25.txt : Maximum Matching 72  in 0.0005393028259277344 seconds; Number of operations: 1140; Number of tested solutions: 15
+_25_50.txt : Maximum Matching 142  in 0.0009415149688720703 seconds; Number of operations: 2265; Number of tested solutions: 15
+_25_75.txt : Maximum Matching 213  in 0.0015096664428710938 seconds; Number of operations: 3390; Number of tested solutions: 15
+_26_12.txt : Maximum Matching 40  in 0.0003058910369873047 seconds; Number of operations: 672; Number of tested solutions: 16
+_26_25.txt : Maximum Matching 78  in 0.0005846023559570312 seconds; Number of operations: 1328; Number of tested solutions: 16
+_26_50.txt : Maximum Matching 155  in 0.0010941028594970703 seconds; Number of operations: 2624; Number of tested solutions: 16
+_26_75.txt : Maximum Matching 232  in 0.0016200542449951172 seconds; Number of operations: 3920; Number of tested solutions: 16
+_27_12.txt : Maximum Matching 44  in 0.0005192756652832031 seconds; Number of operations: 720; Number of tested solutions: 16
+_27_25.txt : Maximum Matching 85  in 0.00060272216796875 seconds; Number of operations: 1424; Number of tested solutions: 16
+_27_50.txt : Maximum Matching 168  in 0.0013246536254882812 seconds; Number of operations: 2832; Number of tested solutions: 16
+_27_75.txt : Maximum Matching 252  in 0.0017464160919189453 seconds; Number of operations: 4240; Number of tested solutions: 16
+_28_12.txt : Maximum Matching 48  in 0.00035858154296875 seconds; Number of operations: 833; Number of tested solutions: 17
+_28_25.txt : Maximum Matching 92  in 0.0006656646728515625 seconds; Number of operations: 1632; Number of tested solutions: 17
+_28_50.txt : Maximum Matching 181  in 0.0019211769104003906 seconds; Number of operations: 3230; Number of tested solutions: 17
+_28_75.txt : Maximum Matching 270  in 0.0020797252655029297 seconds; Number of operations: 4845; Number of tested solutions: 17
+_29_12.txt : Maximum Matching 51  in 0.00039839744567871094 seconds; Number of operations: 884; Number of tested solutions: 17
+_29_25.txt : Maximum Matching 100  in 0.0007405281066894531 seconds; Number of operations: 1751; Number of tested solutions: 17
+_29_50.txt : Maximum Matching 196  in 0.0014934539794921875 seconds; Number of operations: 3468; Number of tested solutions: 17
+_29_75.txt : Maximum Matching 290  in 0.0024068355560302734 seconds; Number of operations: 5202; Number of tested solutions: 17
+_30_12.txt : Maximum Matching 54  in 0.00047969818115234375 seconds; Number of operations: 1008; Number of tested solutions: 18
+_30_25.txt : Maximum Matching 106  in 0.0008141994476318359 seconds; Number of operations: 1980; Number of tested solutions: 18
+_30_50.txt : Maximum Matching 210  in 0.0016760826110839844 seconds; Number of operations: 3942; Number of tested solutions: 18
+_30_75.txt : Maximum Matching 313  in 0.0024118423461914062 seconds; Number of operations: 5904; Number of tested solutions: 18
+_31_12.txt : Maximum Matching 58  in 0.0005903244018554688 seconds; Number of operations: 1140; Number of tested solutions: 19
+_31_25.txt : Maximum Matching 114  in 0.0009925365447998047 seconds; Number of operations: 2242; Number of tested solutions: 19
+_31_50.txt : Maximum Matching 223  in 0.001795053482055664 seconds; Number of operations: 4446; Number of tested solutions: 19
+_31_75.txt : Maximum Matching 333  in 0.0027039051055908203 seconds; Number of operations: 6650; Number of tested solutions: 19
+_32_12.txt : Maximum Matching 62  in 0.0005030632019042969 seconds; Number of operations: 1197; Number of tested solutions: 19
+_32_25.txt : Maximum Matching 121  in 0.0009942054748535156 seconds; Number of operations: 2375; Number of tested solutions: 19
+_32_50.txt : Maximum Matching 240  in 0.002553224563598633 seconds; Number of operations: 4731; Number of tested solutions: 19
+_32_75.txt : Maximum Matching 358  in 0.002834796905517578 seconds; Number of operations: 7087; Number of tested solutions: 19
+_33_12.txt : Maximum Matching 66  in 0.0005474090576171875 seconds; Number of operations: 1340; Number of tested solutions: 20
+_33_25.txt : Maximum Matching 129  in 0.0010814666748046875 seconds; Number of operations: 2660; Number of tested solutions: 20
+_33_50.txt : Maximum Matching 253  in 0.0026428699493408203 seconds; Number of operations: 5300; Number of tested solutions: 20
+_33_75.txt : Maximum Matching 381  in 0.0036270618438720703 seconds; Number of operations: 7940; Number of tested solutions: 20
+_34_12.txt : Maximum Matching 69  in 0.0005986690521240234 seconds; Number of operations: 1440; Number of tested solutions: 20
+_34_25.txt : Maximum Matching 137  in 0.0010747909545898438 seconds; Number of operations: 2840; Number of tested solutions: 20
+_34_50.txt : Maximum Matching 268  in 0.002478361129760742 seconds; Number of operations: 5640; Number of tested solutions: 20
+_34_75.txt : Maximum Matching 404  in 0.003407001495361328 seconds; Number of operations: 8440; Number of tested solutions: 20
+_35_12.txt : Maximum Matching 75  in 0.0006730556488037109 seconds; Number of operations: 1596; Number of tested solutions: 21
+_35_25.txt : Maximum Matching 145  in 0.0012984275817871094 seconds; Number of operations: 3150; Number of tested solutions: 21
+_35_50.txt : Maximum Matching 290  in 0.002523183822631836 seconds; Number of operations: 6279; Number of tested solutions: 21
+_35_75.txt : Maximum Matching 428  in 0.0038552284240722656 seconds; Number of operations: 9408; Number of tested solutions: 21
+_36_12.txt : Maximum Matching 79  in 0.0007376670837402344 seconds; Number of operations: 1760; Number of tested solutions: 22
+_36_25.txt : Maximum Matching 154  in 0.0015406608581542969 seconds; Number of operations: 3498; Number of tested solutions: 22
+_36_50.txt : Maximum Matching 307  in 0.002887725830078125 seconds; Number of operations: 6952; Number of tested solutions: 22
+_36_75.txt : Maximum Matching 457  in 0.0046539306640625 seconds; Number of operations: 10428; Number of tested solutions: 22
+_37_12.txt : Maximum Matching 84  in 0.0007500648498535156 seconds; Number of operations: 1870; Number of tested solutions: 22
+_37_25.txt : Maximum Matching 163  in 0.001575469970703125 seconds; Number of operations: 3696; Number of tested solutions: 22
+_37_50.txt : Maximum Matching 324  in 0.0029401779174804688 seconds; Number of operations: 7348; Number of tested solutions: 22
+_37_75.txt : Maximum Matching 483  in 0.004625082015991211 seconds; Number of operations: 11022; Number of tested solutions: 22
+_38_12.txt : Maximum Matching 88  in 0.0009019374847412109 seconds; Number of operations: 2047; Number of tested solutions: 23
+_38_25.txt : Maximum Matching 172  in 0.0016226768493652344 seconds; Number of operations: 4071; Number of tested solutions: 23
+_38_50.txt : Maximum Matching 342  in 0.0033495426177978516 seconds; Number of operations: 8119; Number of tested solutions: 23
+_38_75.txt : Maximum Matching 507  in 0.004709959030151367 seconds; Number of operations: 12167; Number of tested solutions: 23
+_39_12.txt : Maximum Matching 93  in 0.0009253025054931641 seconds; Number of operations: 2162; Number of tested solutions: 23
+_39_25.txt : Maximum Matching 181  in 0.0019690990447998047 seconds; Number of operations: 4301; Number of tested solutions: 23
+_39_50.txt : Maximum Matching 358  in 0.003660917282104492 seconds; Number of operations: 8556; Number of tested solutions: 23
+_39_75.txt : Maximum Matching 535  in 0.005719900131225586 seconds; Number of operations: 12811; Number of tested solutions: 23
+_40_12.txt : Maximum Matching 98  in 0.0011396408081054688 seconds; Number of operations: 2376; Number of tested solutions: 24
+_40_25.txt : Maximum Matching 191  in 0.0019488334655761719 seconds; Number of operations: 4704; Number of tested solutions: 24
+_40_50.txt : Maximum Matching 376  in 0.004018068313598633 seconds; Number of operations: 9384; Number of tested solutions: 24
+_40_75.txt : Maximum Matching 565  in 0.006119251251220703 seconds; Number of operations: 14064; Number of tested solutions: 24
+_41_12.txt : Maximum Matching 103  in 0.001016378402709961 seconds; Number of operations: 2600; Number of tested solutions: 25
+_41_25.txt : Maximum Matching 200  in 0.002028226852416992 seconds; Number of operations: 5150; Number of tested solutions: 25
+_41_50.txt : Maximum Matching 399  in 0.004214763641357422 seconds; Number of operations: 10275; Number of tested solutions: 25
+_41_75.txt : Maximum Matching 593  in 0.006082057952880859 seconds; Number of operations: 15400; Number of tested solutions: 25
+_42_12.txt : Maximum Matching 108  in 0.0011227130889892578 seconds; Number of operations: 2725; Number of tested solutions: 25
+_42_25.txt : Maximum Matching 211  in 0.0023190975189208984 seconds; Number of operations: 5425; Number of tested solutions: 25
+_42_50.txt : Maximum Matching 417  in 0.004950761795043945 seconds; Number of operations: 10800; Number of tested solutions: 25
+_42_75.txt : Maximum Matching 623  in 0.007158517837524414 seconds; Number of operations: 16175; Number of tested solutions: 25
+_43_12.txt : Maximum Matching 113  in 0.0011780261993408203 seconds; Number of operations: 2964; Number of tested solutions: 26
+_43_25.txt : Maximum Matching 221  in 0.0024263858795166016 seconds; Number of operations: 5902; Number of tested solutions: 26
+_43_50.txt : Maximum Matching 436  in 0.0047228336334228516 seconds; Number of operations: 11778; Number of tested solutions: 26
+_43_75.txt : Maximum Matching 656  in 0.00711822509765625 seconds; Number of operations: 17654; Number of tested solutions: 26
+_44_12.txt : Maximum Matching 119  in 0.0013759136199951172 seconds; Number of operations: 3120; Number of tested solutions: 26
+_44_25.txt : Maximum Matching 232  in 0.0030040740966796875 seconds; Number of operations: 6188; Number of tested solutions: 26
+_44_50.txt : Maximum Matching 465  in 0.004955291748046875 seconds; Number of operations: 12324; Number of tested solutions: 26
+_44_75.txt : Maximum Matching 690  in 0.007468223571777344 seconds; Number of operations: 18486; Number of tested solutions: 26
+_45_12.txt : Maximum Matching 124  in 0.0013120174407958984 seconds; Number of operations: 3375; Number of tested solutions: 27
+_45_25.txt : Maximum Matching 243  in 0.002894163131713867 seconds; Number of operations: 6723; Number of tested solutions: 27
+_45_50.txt : Maximum Matching 487  in 0.005427360534667969 seconds; Number of operations: 13392; Number of tested solutions: 27
+_45_75.txt : Maximum Matching 723  in 0.007902860641479492 seconds; Number of operations: 20088; Number of tested solutions: 27
+_46_12.txt : Maximum Matching 130  in 0.0014615058898925781 seconds; Number of operations: 3668; Number of tested solutions: 28
+_46_25.txt : Maximum Matching 254  in 0.0029075145721435547 seconds; Number of operations: 7280; Number of tested solutions: 28
+_46_50.txt : Maximum Matching 508  in 0.006082773208618164 seconds; Number of operations: 14532; Number of tested solutions: 28
+_46_75.txt : Maximum Matching 757  in 0.009707212448120117 seconds; Number of operations: 21784; Number of tested solutions: 28
+_47_12.txt : Maximum Matching 135  in 0.0015642642974853516 seconds; Number of operations: 3836; Number of tested solutions: 28
+_47_25.txt : Maximum Matching 264  in 0.0029599666595458984 seconds; Number of operations: 7616; Number of tested solutions: 28
+_47_50.txt : Maximum Matching 530  in 0.006593465805053711 seconds; Number of operations: 15176; Number of tested solutions: 28
+_47_75.txt : Maximum Matching 790  in 0.009431838989257812 seconds; Number of operations: 22736; Number of tested solutions: 28
+_48_12.txt : Maximum Matching 140  in 0.0015795230865478516 seconds; Number of operations: 4118; Number of tested solutions: 29
+_48_25.txt : Maximum Matching 277  in 0.0039708614349365234 seconds; Number of operations: 8207; Number of tested solutions: 29
+_48_50.txt : Maximum Matching 547  in 0.0065953731536865234 seconds; Number of operations: 16385; Number of tested solutions: 29
+_48_75.txt : Maximum Matching 824  in 0.009934186935424805 seconds; Number of operations: 24563; Number of tested solutions: 29
+_49_12.txt : Maximum Matching 146  in 0.002493619918823242 seconds; Number of operations: 4292; Number of tested solutions: 29
+_49_25.txt : Maximum Matching 288  in 0.003575563430786133 seconds; Number of operations: 8555; Number of tested solutions: 29
+_49_50.txt : Maximum Matching 573  in 0.007903099060058594 seconds; Number of operations: 17081; Number of tested solutions: 29
+_49_75.txt : Maximum Matching 858  in 0.010071992874145508 seconds; Number of operations: 25607; Number of tested solutions: 29
+_50_12.txt : Maximum Matching 153  in 0.002161741256713867 seconds; Number of operations: 4650; Number of tested solutions: 30
+_50_25.txt : Maximum Matching 299  in 0.0037610530853271484 seconds; Number of operations: 9240; Number of tested solutions: 30
+_50_50.txt : Maximum Matching 599  in 0.007338047027587891 seconds; Number of operations: 18420; Number of tested solutions: 30
+_50_75.txt : Maximum Matching 897  in 0.011892080307006836 seconds; Number of operations: 27600; Number of tested solutions: 30
+_51_12.txt : Maximum Matching 159  in 0.0018944740295410156 seconds; Number of operations: 4991; Number of tested solutions: 31
+_51_25.txt : Maximum Matching 312  in 0.0038726329803466797 seconds; Number of operations: 9920; Number of tested solutions: 31
+_51_50.txt : Maximum Matching 620  in 0.008234500885009766 seconds; Number of operations: 19809; Number of tested solutions: 31
+_51_75.txt : Maximum Matching 934  in 0.012209892272949219 seconds; Number of operations: 29698; Number of tested solutions: 31
+_52_12.txt : Maximum Matching 165  in 0.002219676971435547 seconds; Number of operations: 5177; Number of tested solutions: 31
+_52_25.txt : Maximum Matching 327  in 0.0038919448852539062 seconds; Number of operations: 10323; Number of tested solutions: 31
+_52_50.txt : Maximum Matching 648  in 0.00800466537475586 seconds; Number of operations: 20584; Number of tested solutions: 31
+_52_75.txt : Maximum Matching 971  in 0.01256561279296875 seconds; Number of operations: 30876; Number of tested solutions: 31
+_53_12.txt : Maximum Matching 172  in 0.0022134780883789062 seconds; Number of operations: 5568; Number of tested solutions: 32
+_53_25.txt : Maximum Matching 338  in 0.004129171371459961 seconds; Number of operations: 11072; Number of tested solutions: 32
+_53_50.txt : Maximum Matching 671  in 0.009510517120361328 seconds; Number of operations: 22080; Number of tested solutions: 32
+_53_75.txt : Maximum Matching 1010  in 0.013199806213378906 seconds; Number of operations: 33120; Number of tested solutions: 32
+_54_12.txt : Maximum Matching 177  in 0.002283811569213867 seconds; Number of operations: 5760; Number of tested solutions: 32
+_54_25.txt : Maximum Matching 349  in 0.005038022994995117 seconds; Number of operations: 11488; Number of tested solutions: 32
+_54_50.txt : Maximum Matching 701  in 0.010101556777954102 seconds; Number of operations: 22944; Number of tested solutions: 32
+_54_75.txt : Maximum Matching 1047  in 0.014994621276855469 seconds; Number of operations: 34400; Number of tested solutions: 32
+_55_12.txt : Maximum Matching 185  in 0.0026471614837646484 seconds; Number of operations: 6171; Number of tested solutions: 33
+_55_25.txt : Maximum Matching 365  in 0.004896640777587891 seconds; Number of operations: 12309; Number of tested solutions: 33
+_55_50.txt : Maximum Matching 729  in 0.009664773941040039 seconds; Number of operations: 24552; Number of tested solutions: 33
+_55_75.txt : Maximum Matching 1088  in 0.014396905899047852 seconds; Number of operations: 36795; Number of tested solutions: 33
+_56_12.txt : Maximum Matching 192  in 0.002640247344970703 seconds; Number of operations: 6596; Number of tested solutions: 34
+_56_25.txt : Maximum Matching 378  in 0.004876852035522461 seconds; Number of operations: 13124; Number of tested solutions: 34
+_56_50.txt : Maximum Matching 753  in 0.010881662368774414 seconds; Number of operations: 26214; Number of tested solutions: 34
+_56_75.txt : Maximum Matching 1129  in 0.015375375747680664 seconds; Number of operations: 39304; Number of tested solutions: 34
+_57_12.txt : Maximum Matching 199  in 0.0027158260345458984 seconds; Number of operations: 6834; Number of tested solutions: 34
+_57_25.txt : Maximum Matching 390  in 0.0058820247650146484 seconds; Number of operations: 13600; Number of tested solutions: 34
+_57_50.txt : Maximum Matching 782  in 0.013151884078979492 seconds; Number of operations: 27166; Number of tested solutions: 34
+_57_75.txt : Maximum Matching 1167  in 0.016304492950439453 seconds; Number of operations: 40732; Number of tested solutions: 34
+_58_12.txt : Maximum Matching 206  in 0.00270843505859375 seconds; Number of operations: 7280; Number of tested solutions: 35
+_58_25.txt : Maximum Matching 405  in 0.006361722946166992 seconds; Number of operations: 14525; Number of tested solutions: 35
+_58_50.txt : Maximum Matching 813  in 0.010873556137084961 seconds; Number of operations: 28980; Number of tested solutions: 35
+_58_75.txt : Maximum Matching 1212  in 0.018190860748291016 seconds; Number of operations: 43435; Number of tested solutions: 35
+_59_12.txt : Maximum Matching 212  in 0.0033638477325439453 seconds; Number of operations: 7525; Number of tested solutions: 35
+_59_25.txt : Maximum Matching 420  in 0.006494998931884766 seconds; Number of operations: 15015; Number of tested solutions: 35
+_59_50.txt : Maximum Matching 838  in 0.013005971908569336 seconds; Number of operations: 29995; Number of tested solutions: 35
+_59_75.txt : Maximum Matching 1248  in 0.01972055435180664 seconds; Number of operations: 44975; Number of tested solutions: 35
+_60_12.txt : Maximum Matching 220  in 0.0038030147552490234 seconds; Number of operations: 8028; Number of tested solutions: 36
+_60_25.txt : Maximum Matching 435  in 0.00652003288269043 seconds; Number of operations: 15984; Number of tested solutions: 36
+_60_50.txt : Maximum Matching 870  in 0.013173103332519531 seconds; Number of operations: 31896; Number of tested solutions: 36
+_60_75.txt : Maximum Matching 1292  in 0.019603729248046875 seconds; Number of operations: 47844; Number of tested solutions: 36
+_61_12.txt : Maximum Matching 227  in 0.003185272216796875 seconds; Number of operations: 8510; Number of tested solutions: 37
+_61_25.txt : Maximum Matching 450  in 0.006572723388671875 seconds; Number of operations: 16983; Number of tested solutions: 37
+_61_50.txt : Maximum Matching 894  in 0.013834238052368164 seconds; Number of operations: 33892; Number of tested solutions: 37
+_61_75.txt : Maximum Matching 1340  in 0.020825862884521484 seconds; Number of operations: 50838; Number of tested solutions: 37
+_62_12.txt : Maximum Matching 236  in 0.004528522491455078 seconds; Number of operations: 8806; Number of tested solutions: 37
+_62_25.txt : Maximum Matching 463  in 0.00798487663269043 seconds; Number of operations: 17538; Number of tested solutions: 37
+_62_50.txt : Maximum Matching 930  in 0.01529240608215332 seconds; Number of operations: 35039; Number of tested solutions: 37
+_62_75.txt : Maximum Matching 1385  in 0.02153611183166504 seconds; Number of operations: 52540; Number of tested solutions: 37
+_63_12.txt : Maximum Matching 244  in 0.0038230419158935547 seconds; Number of operations: 9348; Number of tested solutions: 38
+_63_25.txt : Maximum Matching 479  in 0.009211540222167969 seconds; Number of operations: 18620; Number of tested solutions: 38
+_63_50.txt : Maximum Matching 961  in 0.014449834823608398 seconds; Number of operations: 37164; Number of tested solutions: 38
+_63_75.txt : Maximum Matching 1431  in 0.02281475067138672 seconds; Number of operations: 55708; Number of tested solutions: 38
+_64_12.txt : Maximum Matching 250  in 0.003968954086303711 seconds; Number of operations: 9614; Number of tested solutions: 38
+_64_25.txt : Maximum Matching 496  in 0.008129596710205078 seconds; Number of operations: 19190; Number of tested solutions: 38
+_64_50.txt : Maximum Matching 989  in 0.015172719955444336 seconds; Number of operations: 38342; Number of tested solutions: 38
+_64_75.txt : Maximum Matching 1478  in 0.025101184844970703 seconds; Number of operations: 57494; Number of tested solutions: 38
+_65_12.txt : Maximum Matching 258  in 0.004525184631347656 seconds; Number of operations: 10179; Number of tested solutions: 39
+_65_25.txt : Maximum Matching 512  in 0.008569955825805664 seconds; Number of operations: 20319; Number of tested solutions: 39
+_65_50.txt : Maximum Matching 1020  in 0.016863584518432617 seconds; Number of operations: 40599; Number of tested solutions: 39
+_65_75.txt : Maximum Matching 1525  in 0.024065732955932617 seconds; Number of operations: 60879; Number of tested solutions: 39
+_66_12.txt : Maximum Matching 267  in 0.003964900970458984 seconds; Number of operations: 10800; Number of tested solutions: 40
+_66_25.txt : Maximum Matching 529  in 0.00900578498840332 seconds; Number of operations: 21520; Number of tested solutions: 40
+_66_50.txt : Maximum Matching 1052  in 0.016237735748291016 seconds; Number of operations: 42960; Number of tested solutions: 40
+_66_75.txt : Maximum Matching 1575  in 0.027021408081054688 seconds; Number of operations: 64400; Number of tested solutions: 40
+_67_12.txt : Maximum Matching 275  in 0.004313468933105469 seconds; Number of operations: 11120; Number of tested solutions: 40
+_67_25.txt : Maximum Matching 546  in 0.011208295822143555 seconds; Number of operations: 22160; Number of tested solutions: 40
+_67_50.txt : Maximum Matching 1085  in 0.017758846282958984 seconds; Number of operations: 44280; Number of tested solutions: 40
+_67_75.txt : Maximum Matching 1626  in 0.026006221771240234 seconds; Number of operations: 66400; Number of tested solutions: 40
+_68_12.txt : Maximum Matching 283  in 0.005105257034301758 seconds; Number of operations: 11726; Number of tested solutions: 41
+_68_25.txt : Maximum Matching 562  in 0.009177446365356445 seconds; Number of operations: 23411; Number of tested solutions: 41
+_68_50.txt : Maximum Matching 1119  in 0.01917576789855957 seconds; Number of operations: 46740; Number of tested solutions: 41
+_68_75.txt : Maximum Matching 1673  in 0.028937578201293945 seconds; Number of operations: 70110; Number of tested solutions: 41
+_69_12.txt : Maximum Matching 292  in 0.00494384765625 seconds; Number of operations: 12095; Number of tested solutions: 41
+_69_25.txt : Maximum Matching 577  in 0.009293556213378906 seconds; Number of operations: 24108; Number of tested solutions: 41
+_69_50.txt : Maximum Matching 1149  in 0.01929497718811035 seconds; Number of operations: 48134; Number of tested solutions: 41
+_69_75.txt : Maximum Matching 1725  in 0.028202533721923828 seconds; Number of operations: 72201; Number of tested solutions: 41
+_70_12.txt : Maximum Matching 297  in 0.004643917083740234 seconds; Number of operations: 12726; Number of tested solutions: 42
+_70_25.txt : Maximum Matching 597  in 0.010320663452148438 seconds; Number of operations: 25410; Number of tested solutions: 42
+_70_50.txt : Maximum Matching 1186  in 0.019360780715942383 seconds; Number of operations: 50778; Number of tested solutions: 42
+_70_75.txt : Maximum Matching 1777  in 0.0300290584564209 seconds; Number of operations: 76146; Number of tested solutions: 42
+_71_12.txt : Maximum Matching 309  in 0.005044221878051758 seconds; Number of operations: 13416; Number of tested solutions: 43
+_71_25.txt : Maximum Matching 613  in 0.010008573532104492 seconds; Number of operations: 26789; Number of tested solutions: 43
+_71_50.txt : Maximum Matching 1218  in 0.020860910415649414 seconds; Number of operations: 53492; Number of tested solutions: 43
+_71_75.txt : Maximum Matching 1828  in 0.02979254722595215 seconds; Number of operations: 80195; Number of tested solutions: 43
+_72_12.txt : Maximum Matching 318  in 0.005415916442871094 seconds; Number of operations: 13803; Number of tested solutions: 43
+_72_25.txt : Maximum Matching 631  in 0.011406421661376953 seconds; Number of operations: 27520; Number of tested solutions: 43
+_72_50.txt : Maximum Matching 1253  in 0.021433353424072266 seconds; Number of operations: 54997; Number of tested solutions: 43
+_72_75.txt : Maximum Matching 1881  in 0.032396793365478516 seconds; Number of operations: 82474; Number of tested solutions: 43
+_73_12.txt : Maximum Matching 327  in 0.005887508392333984 seconds; Number of operations: 14520; Number of tested solutions: 44
+_73_25.txt : Maximum Matching 647  in 0.011260509490966797 seconds; Number of operations: 28952; Number of tested solutions: 44
+_73_50.txt : Maximum Matching 1287  in 0.02335977554321289 seconds; Number of operations: 57860; Number of tested solutions: 44
+_73_75.txt : Maximum Matching 1932  in 0.03848886489868164 seconds; Number of operations: 86768; Number of tested solutions: 44
+_74_12.txt : Maximum Matching 335  in 0.006547212600708008 seconds; Number of operations: 14916; Number of tested solutions: 44
+_74_25.txt : Maximum Matching 666  in 0.012978553771972656 seconds; Number of operations: 29788; Number of tested solutions: 44
+_74_50.txt : Maximum Matching 1324  in 0.024469614028930664 seconds; Number of operations: 59488; Number of tested solutions: 44
+_74_75.txt : Maximum Matching 1987  in 0.03582930564880371 seconds; Number of operations: 89188; Number of tested solutions: 44
+_75_12.txt : Maximum Matching 344  in 0.006305694580078125 seconds; Number of operations: 15660; Number of tested solutions: 45
+_75_25.txt : Maximum Matching 684  in 0.012965917587280273 seconds; Number of operations: 31275; Number of tested solutions: 45
+_75_50.txt : Maximum Matching 1361  in 0.025218725204467773 seconds; Number of operations: 62505; Number of tested solutions: 45
+_75_75.txt : Maximum Matching 2041  in 0.03615403175354004 seconds; Number of operations: 93735; Number of tested solutions: 45
+_76_12.txt : Maximum Matching 354  in 0.0064775943756103516 seconds; Number of operations: 16468; Number of tested solutions: 46
+_76_25.txt : Maximum Matching 702  in 0.012965917587280273 seconds; Number of operations: 32844; Number of tested solutions: 46
+_76_50.txt : Maximum Matching 1398  in 0.026442289352416992 seconds; Number of operations: 65596; Number of tested solutions: 46
+_76_75.txt : Maximum Matching 2097  in 0.03770947456359863 seconds; Number of operations: 98394; Number of tested solutions: 46
+_77_12.txt : Maximum Matching 364  in 0.007106304168701172 seconds; Number of operations: 16882; Number of tested solutions: 46
+_77_25.txt : Maximum Matching 723  in 0.012431859970092773 seconds; Number of operations: 33718; Number of tested solutions: 46
+_77_50.txt : Maximum Matching 1436  in 0.026040315628051758 seconds; Number of operations: 67344; Number of tested solutions: 46
+_77_75.txt : Maximum Matching 2151  in 0.0407719612121582 seconds; Number of operations: 101016; Number of tested solutions: 46
+_78_12.txt : Maximum Matching 373  in 0.008758068084716797 seconds; Number of operations: 17719; Number of tested solutions: 47
+_78_25.txt : Maximum Matching 742  in 0.01355290412902832 seconds; Number of operations: 35344; Number of tested solutions: 47
+_78_50.txt : Maximum Matching 1473  in 0.026848793029785156 seconds; Number of operations: 70641; Number of tested solutions: 47
+_78_75.txt : Maximum Matching 2212  in 0.04336881637573242 seconds; Number of operations: 105938; Number of tested solutions: 47
+_79_12.txt : Maximum Matching 383  in 0.007647037506103516 seconds; Number of operations: 18189; Number of tested solutions: 47
+_79_25.txt : Maximum Matching 761  in 0.015160560607910156 seconds; Number of operations: 36284; Number of tested solutions: 47
+_79_50.txt : Maximum Matching 1514  in 0.029714107513427734 seconds; Number of operations: 72474; Number of tested solutions: 47
+_79_75.txt : Maximum Matching 2268  in 0.0439913272857666 seconds; Number of operations: 108664; Number of tested solutions: 47
+_80_12.txt : Maximum Matching 392  in 0.007250308990478516 seconds; Number of operations: 19008; Number of tested solutions: 48
+_80_25.txt : Maximum Matching 778  in 0.016091108322143555 seconds; Number of operations: 37968; Number of tested solutions: 48
+_80_50.txt : Maximum Matching 1552  in 0.030742645263671875 seconds; Number of operations: 75888; Number of tested solutions: 48
+_80_75.txt : Maximum Matching 2327  in 0.04360461235046387 seconds; Number of operations: 113808; Number of tested solutions: 48
+_81_12.txt : Maximum Matching 402  in 0.007883310317993164 seconds; Number of operations: 19894; Number of tested solutions: 49
+_81_25.txt : Maximum Matching 801  in 0.015007734298706055 seconds; Number of operations: 39739; Number of tested solutions: 49
+_81_50.txt : Maximum Matching 1591  in 0.03167390823364258 seconds; Number of operations: 79429; Number of tested solutions: 49
+_81_75.txt : Maximum Matching 2389  in 0.04489421844482422 seconds; Number of operations: 119119; Number of tested solutions: 49
+_82_12.txt : Maximum Matching 413  in 0.009534597396850586 seconds; Number of operations: 20433; Number of tested solutions: 49
+_82_25.txt : Maximum Matching 822  in 0.015643835067749023 seconds; Number of operations: 40768; Number of tested solutions: 49
+_82_50.txt : Maximum Matching 1630  in 0.035675048828125 seconds; Number of operations: 81438; Number of tested solutions: 49
+_82_75.txt : Maximum Matching 2450  in 0.04637026786804199 seconds; Number of operations: 122108; Number of tested solutions: 49
+_83_12.txt : Maximum Matching 422  in 0.00865316390991211 seconds; Number of operations: 21350; Number of tested solutions: 50
+_83_25.txt : Maximum Matching 841  in 0.016913175582885742 seconds; Number of operations: 42600; Number of tested solutions: 50
+_83_50.txt : Maximum Matching 1675  in 0.03469061851501465 seconds; Number of operations: 85150; Number of tested solutions: 50
+_83_75.txt : Maximum Matching 2508  in 0.04798579216003418 seconds; Number of operations: 127700; Number of tested solutions: 50
+_84_12.txt : Maximum Matching 433  in 0.008927345275878906 seconds; Number of operations: 21850; Number of tested solutions: 50
+_84_25.txt : Maximum Matching 863  in 0.019211769104003906 seconds; Number of operations: 43650; Number of tested solutions: 50
+_84_50.txt : Maximum Matching 1717  in 0.0365445613861084 seconds; Number of operations: 87200; Number of tested solutions: 50
+_84_75.txt : Maximum Matching 2571  in 0.04975557327270508 seconds; Number of operations: 130800; Number of tested solutions: 50
+_85_12.txt : Maximum Matching 444  in 0.008653402328491211 seconds; Number of operations: 22848; Number of tested solutions: 51
+_85_25.txt : Maximum Matching 884  in 0.020255565643310547 seconds; Number of operations: 45594; Number of tested solutions: 51
+_85_50.txt : Maximum Matching 1759  in 0.03758406639099121 seconds; Number of operations: 91086; Number of tested solutions: 51
+_85_75.txt : Maximum Matching 2635  in 0.05522274971008301 seconds; Number of operations: 136629; Number of tested solutions: 51
+_86_12.txt : Maximum Matching 454  in 0.008892297744750977 seconds; Number of operations: 23816; Number of tested solutions: 52
+_86_25.txt : Maximum Matching 904  in 0.0178987979888916 seconds; Number of operations: 47580; Number of tested solutions: 52
+_86_50.txt : Maximum Matching 1798  in 0.03734946250915527 seconds; Number of operations: 95108; Number of tested solutions: 52
+_86_75.txt : Maximum Matching 2696  in 0.057309865951538086 seconds; Number of operations: 142636; Number of tested solutions: 52
+_87_12.txt : Maximum Matching 462  in 0.009315013885498047 seconds; Number of operations: 24388; Number of tested solutions: 52
+_87_25.txt : Maximum Matching 926  in 0.018385648727416992 seconds; Number of operations: 48724; Number of tested solutions: 52
+_87_50.txt : Maximum Matching 1845  in 0.04078483581542969 seconds; Number of operations: 97344; Number of tested solutions: 52
+_87_75.txt : Maximum Matching 2759  in 0.05791783332824707 seconds; Number of operations: 145964; Number of tested solutions: 52
+_88_12.txt : Maximum Matching 476  in 0.010867118835449219 seconds; Number of operations: 25440; Number of tested solutions: 53
+_88_25.txt : Maximum Matching 947  in 0.018875837326049805 seconds; Number of operations: 50774; Number of tested solutions: 53
+_88_50.txt : Maximum Matching 1885  in 0.039519309997558594 seconds; Number of operations: 101495; Number of tested solutions: 53
+_88_75.txt : Maximum Matching 2824  in 0.059290170669555664 seconds; Number of operations: 152216; Number of tested solutions: 53
+_89_12.txt : Maximum Matching 487  in 0.010061502456665039 seconds; Number of operations: 26023; Number of tested solutions: 53
+_89_25.txt : Maximum Matching 969  in 0.020946979522705078 seconds; Number of operations: 51940; Number of tested solutions: 53
+_89_50.txt : Maximum Matching 1932  in 0.0413060188293457 seconds; Number of operations: 103827; Number of tested solutions: 53
+_89_75.txt : Maximum Matching 2888  in 0.06554484367370605 seconds; Number of operations: 155714; Number of tested solutions: 53
+_90_12.txt : Maximum Matching 498  in 0.01094675064086914 seconds; Number of operations: 27108; Number of tested solutions: 54
+_90_25.txt : Maximum Matching 991  in 0.023083925247192383 seconds; Number of operations: 54162; Number of tested solutions: 54
+_90_50.txt : Maximum Matching 1977  in 0.04443049430847168 seconds; Number of operations: 108216; Number of tested solutions: 54
+_90_75.txt : Maximum Matching 2955  in 0.07005763053894043 seconds; Number of operations: 162270; Number of tested solutions: 54
+_91_12.txt : Maximum Matching 509  in 0.010377168655395508 seconds; Number of operations: 28215; Number of tested solutions: 55
+_91_25.txt : Maximum Matching 1012  in 0.021581172943115234 seconds; Number of operations: 56375; Number of tested solutions: 55
+_91_50.txt : Maximum Matching 2015  in 0.04440045356750488 seconds; Number of operations: 112695; Number of tested solutions: 55
+_91_75.txt : Maximum Matching 3023  in 0.06516432762145996 seconds; Number of operations: 169015; Number of tested solutions: 55
+_92_12.txt : Maximum Matching 519  in 0.012085676193237305 seconds; Number of operations: 28875; Number of tested solutions: 55
+_92_25.txt : Maximum Matching 1033  in 0.023526906967163086 seconds; Number of operations: 57640; Number of tested solutions: 55
+_92_50.txt : Maximum Matching 2067  in 0.04721832275390625 seconds; Number of operations: 115170; Number of tested solutions: 55
+_92_75.txt : Maximum Matching 3091  in 0.07149887084960938 seconds; Number of operations: 172755; Number of tested solutions: 55
+_93_12.txt : Maximum Matching 532  in 0.011212348937988281 seconds; Number of operations: 30016; Number of tested solutions: 56
+_93_25.txt : Maximum Matching 1060  in 0.02310776710510254 seconds; Number of operations: 59976; Number of tested solutions: 56
+_93_50.txt : Maximum Matching 2113  in 0.05322384834289551 seconds; Number of operations: 119840; Number of tested solutions: 56
+_93_75.txt : Maximum Matching 3160  in 0.06878232955932617 seconds; Number of operations: 179760; Number of tested solutions: 56
+_94_12.txt : Maximum Matching 542  in 0.012357234954833984 seconds; Number of operations: 30688; Number of tested solutions: 56
+_94_25.txt : Maximum Matching 1083  in 0.023404598236083984 seconds; Number of operations: 61264; Number of tested solutions: 56
+_94_50.txt : Maximum Matching 2161  in 0.04819083213806152 seconds; Number of operations: 122472; Number of tested solutions: 56
+_94_75.txt : Maximum Matching 3230  in 0.07578754425048828 seconds; Number of operations: 183680; Number of tested solutions: 56
+_95_12.txt : Maximum Matching 554  in 0.01151132583618164 seconds; Number of operations: 31920; Number of tested solutions: 57
+_95_25.txt : Maximum Matching 1103  in 0.024155855178833008 seconds; Number of operations: 63726; Number of tested solutions: 57
+_95_50.txt : Maximum Matching 2208  in 0.047951698303222656 seconds; Number of operations: 127338; Number of tested solutions: 57
+_95_75.txt : Maximum Matching 3297  in 0.07125473022460938 seconds; Number of operations: 190950; Number of tested solutions: 57
+_96_12.txt : Maximum Matching 564  in 0.013894319534301758 seconds; Number of operations: 33118; Number of tested solutions: 58
+_96_25.txt : Maximum Matching 1129  in 0.02543950080871582 seconds; Number of operations: 66178; Number of tested solutions: 58
+_96_50.txt : Maximum Matching 2251  in 0.05381917953491211 seconds; Number of operations: 132298; Number of tested solutions: 58
+_96_75.txt : Maximum Matching 3364  in 0.08196139335632324 seconds; Number of operations: 198418; Number of tested solutions: 58
+_97_12.txt : Maximum Matching 578  in 0.013569116592407227 seconds; Number of operations: 33814; Number of tested solutions: 58
+_97_25.txt : Maximum Matching 1153  in 0.026245594024658203 seconds; Number of operations: 67570; Number of tested solutions: 58
+_97_50.txt : Maximum Matching 2303  in 0.050791263580322266 seconds; Number of operations: 135082; Number of tested solutions: 58
+_97_75.txt : Maximum Matching 3436  in 0.0792090892791748 seconds; Number of operations: 202594; Number of tested solutions: 58
+_98_12.txt : Maximum Matching 588  in 0.017248153686523438 seconds; Number of operations: 35164; Number of tested solutions: 59
+_98_25.txt : Maximum Matching 1172  in 0.02918219566345215 seconds; Number of operations: 70210; Number of tested solutions: 59
+_98_50.txt : Maximum Matching 2346  in 0.05749917030334473 seconds; Number of operations: 140302; Number of tested solutions: 59
+_98_75.txt : Maximum Matching 3513  in 0.07902026176452637 seconds; Number of operations: 210394; Number of tested solutions: 59
+_99_12.txt : Maximum Matching 603  in 0.014878034591674805 seconds; Number of operations: 35872; Number of tested solutions: 59
+_99_25.txt : Maximum Matching 1198  in 0.029506921768188477 seconds; Number of operations: 71626; Number of tested solutions: 59
+_99_50.txt : Maximum Matching 2401  in 0.055971384048461914 seconds; Number of operations: 143193; Number of tested solutions: 59
+_99_75.txt : Maximum Matching 3586  in 0.08478212356567383 seconds; Number of operations: 214760; Number of tested solutions: 59

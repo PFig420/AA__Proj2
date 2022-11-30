@@ -14,7 +14,7 @@ class RandomSearch:
         n_line = 0
         num_total_vertices = None
         vert_list = []
-        lone_vertice_flag = False
+      
         for line in f:
             
             len_line = len(line) + 1
@@ -43,32 +43,26 @@ class RandomSearch:
             tuple_base = (n_line, int(vertice1 / 2), int(vertice2 / 2))
             edges_and_vertices.append(tuple_base)
             n_line = n_line + 1
-        for elem in vert_list:
-            if elem == 0:  
-                lone_vertice_flag = True
+       
           
-        if lone_vertice_flag:
-            end = time.time()
-            return n_line, end-start, 1
         
-        max_matching, end, j = self.monte_carlo(edges_and_vertices, num_total_vertices, lone_vertice_flag)
-        return max_matching, end-start, j
+        
+        max_matching, end, j, number_of_tries = self.monte_carlo(edges_and_vertices, num_total_vertices)
+        return max_matching, end-start, j, number_of_tries
         # edges_and_vertices vai conter tuplos (arestas, vértice1, vertice2)
 
-    def monte_carlo(self, edges_and_vertices, num_total_vertices, lone_vertice_flag):
-        if lone_vertice_flag:
-            return 
+    def monte_carlo(self, edges_and_vertices, num_total_vertices):
+      
         
-        number_of_tries = round(.6 * num_total_vertices)
-        number_of_tries = list(range(number_of_tries))
-        print(num_total_vertices)
-        print(number_of_tries)
+        list_of_vertices = list(range(num_total_vertices)) #
+     
+       
 
         max_matching = 0
         j = 0
 
-        for i in range(len(number_of_tries)):
-            n = random.choice(number_of_tries)
+        for i in range(round(0.6 * num_total_vertices)): #Only check 60% of existing vertices
+            n = random.choice(list_of_vertices)
             temp = 0
             j+=1
             for edge in edges_and_vertices:
@@ -77,6 +71,6 @@ class RandomSearch:
                     temp+=1
                 if temp > max_matching:
                     max_matching = temp
-            number_of_tries.remove(n)
-        return max_matching, time.time(), j
+            list_of_vertices.remove(n)
+        return max_matching, time.time(), j, round(0.6 * num_total_vertices)
         pass
