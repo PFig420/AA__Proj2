@@ -7,15 +7,18 @@ class GraphGenerator:
 
     def __init__(self, nvertices):
         self.nvertices=nvertices
-        self.densities=[0.125,0.25,0.50,0.75]
+        self.densities=[0.75]
         random.seed(97487)
 
 
     def generate_graph(self, outfile):
 
         for d in self.densities:
-            axis_values= [[i, j] for i in range(1,60) for j in range(1,60)] #valor para eixos de x e y
-            filename=f'{outfile}_{self.nvertices}_{int(d*100)}.txt'
+            axis_values= [[i, j] for i in range(1,100) for j in range(1,100)] #valor para eixos de x e y
+            if self.nvertices < 100:
+                filename=f'{outfile}_0{self.nvertices}_{int(d*100)}.txt'
+            else:
+                filename=f'{outfile}_{self.nvertices}_{int(d*100)}.txt'
             outf = open(filename , "w")
             
             for i in range(self.nvertices):

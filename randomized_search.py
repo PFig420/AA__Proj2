@@ -4,6 +4,9 @@ import time
 class RandomSearch:
 
     def __init__(self, ):
+        self.nvertices = None
+        self.nedges = None
+        self.edges_and_vertices = []
         pass
 
     def rand_search(self, infile):
@@ -50,6 +53,29 @@ class RandomSearch:
         max_matching, end, j, number_of_tries = self.monte_carlo(edges_and_vertices, num_total_vertices)
         return max_matching, end-start, j, number_of_tries
         # edges_and_vertices vai conter tuplos (arestas, vértice1, vertice2)
+    def special_graph_search(self, file):
+        start = time.time()
+        f = open(file, "r")
+        n_line = 0
+        for line in f:
+            
+            if n_line == 0 or n_line == 1:
+                n_line+=1
+                continue
+            elif n_line == 2:
+                self.nvertices = int(line)
+                n_line+=1
+            elif n_line == 3:
+                self.nedges = int(line)
+                n_line +=1
+            else:
+                vert1, vert2 = line.split(" ")
+                n_line+=1
+                self.edges_and_vertices.append((n_line-3, int(vert1), int(vert2)))
+        max_matching, end, j, solutions_tested = self.monte_carlo(self.edges_and_vertices, self.nvertices)
+        self.edges_and_vertices.clear()
+        return max_matching, end-start, j, solutions_tested
+        pass
 
     def monte_carlo(self, edges_and_vertices, num_total_vertices):
       

@@ -6,12 +6,12 @@ class ExhaustiveSearch:
 
     def __init__(self):
         self.nvertices = None
+        self.nedges = None
+        self.edges_and_vertices = []
         pass
 
     def exh_search(self, infile):
         start = time.time()
-        print(infile)
-        edges_and_vertices = []
         f = open(infile, "r")
         n_line = 0
         num_total_vertices = None
@@ -42,12 +42,38 @@ class ExhaustiveSearch:
                     break
                 i = i + 1
             tuple_base = (n_line, int(vertice1 / 2), int(vertice2 / 2))
-            edges_and_vertices.append(tuple_base)
+            self.edges_and_vertices.append(tuple_base)
             n_line = n_line + 1
         
-        max_matching, end, j = self.max_matching(edges_and_vertices, num_total_vertices)
-        return max_matching, end-start, j, n_line
+        max_matching, end, j = self.max_matching(self.edges_and_vertices, num_total_vertices)
+        self.edges_and_vertices.clear()
+        return max_matching, end-start, j, num_total_vertices
         # edges_and_vertices vai conter tuplos (arestas, vértice1, vertice2)
+
+
+    def special_graph_search(self, file):
+        start = time.time()
+        f = open(file, "r")
+        n_line = 0
+        for line in f:
+            
+            if n_line == 0 or n_line == 1:
+                n_line+=1
+                continue
+            elif n_line == 2:
+                self.nvertices = int(line)
+                n_line+=1
+            elif n_line == 3:
+                self.nedges = int(line)
+                n_line +=1
+            else:
+                vert1, vert2 = line.split(" ")
+                n_line+=1
+                self.edges_and_vertices.append((n_line-3, int(vert1), int(vert2)))
+        max_matching, end, j = self.max_matching(self.edges_and_vertices, self.nvertices)
+        self.edges_and_vertices.clear()
+        return max_matching, end-start, j, self.nvertices
+        pass
 
     def max_matching(self, edges_and_vertices, num_total_vertices):
         max_matching = 0
@@ -56,6 +82,8 @@ class ExhaustiveSearch:
             temp = 0
             j += 1
             for edge in edges_and_vertices:
+               
+                j += 1
                 if i != edge[1] and i != edge[2]:
                     temp += 1
             if temp > max_matching:
